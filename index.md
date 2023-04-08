@@ -23,3 +23,9 @@
 
 # v1.5.6
 - Fixed camera zooming
+
+#v1.5.7
+- Removed "text" timer option, and added the ability to disable the timer altogether. Projects should run much smoother now.
+- Synced hold notes
+- Hold notes now have color and can have multiple skins
+- Fixed character dances
